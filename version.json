@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 7,
+  "latest_version_code": 9,
   "min_version_code": 1,
   "url": "https://github.com/elpequita/Sunset-IPTV-releases/releases/latest/download/Sunset-IPTV-latest.apk",
-  "message": "v0.1.7 — stability & security update: parental-control fixes, guide crash fixes, better stream compatibility."
+  "message": "v0.2.0 — Merge pull request #4 from elpequita/claude/github-sunset-tv-slra8t"
 }
